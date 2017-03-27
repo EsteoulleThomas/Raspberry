@@ -1,0 +1,22 @@
+﻿Recalbox, une Raspberry Pi émulateur pour le rétro-gaming
+
+https://raspbian-france.fr/recalbox-raspberry-pi-emulateur-retro-gaming/
+
+
+
+How to Build a Raspberry Pi Retro Game Console 
+
+http://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192
+
+
+
+How to build for $50
+
+http://www.pocket-lint.com/news/137374-can-t-buy-a-nes-classic-mini-how-to-build-your-own-retro-console-for-just-50
+
+http://www.gameblog.fr/blogs/platon21/p_117360_jouer-a-toutes-les-anciennes-consoles-en-hd-pour-pas-un-rond
+https://choualbox.com/seTxT
+
+tutos raspberry
+https://raspberry-pi.developpez.com/cours-tutoriels/
+http://nicolargo.developpez.com/tutoriels/raspberry-pi/deballage-installation/
